@@ -15,14 +15,16 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: newstatus.mufin.lol
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://www.mufin.co.kr/images/logo.svg
   name: Upptime
   introTitle: "**Must Fintech**"
   introMessage: "Status Page"
   navbar:
+    - title: Homepage
+      href: https://www.mufin.co.kr
     - title: Status
       href: /
-    - title: GitHub
+    - title: Github
       href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more

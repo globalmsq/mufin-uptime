@@ -9,9 +9,6 @@ sites:
     url: https://stg.businesshub.co.kr/
   - name: Production Businesshub
     url: https://businesshub.co.kr/
-  - name: Test Page
-    url: https://tst.businesshub.co.kr/
-
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there

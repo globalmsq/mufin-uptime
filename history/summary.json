@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.businesshub.co.kr.ico",
     "slug": "dev-businesshub",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
-    "time": 2143,
-    "timeDay": 2258,
-    "timeWeek": 2210,
-    "timeMonth": 2143,
-    "timeYear": 2143,
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 2150,
+    "timeDay": 2359,
+    "timeWeek": 2177,
+    "timeMonth": 2150,
+    "timeYear": 2150,
     "dailyMinutesDown": {
       "2023-12-28": 34
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1628,
-    "timeDay": 1972,
-    "timeWeek": 1702,
-    "timeMonth": 1628,
-    "timeYear": 1628,
+    "time": 1618,
+    "timeDay": 1376,
+    "timeWeek": 1648,
+    "timeMonth": 1618,
+    "timeYear": 1618,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2075,
-    "timeDay": 2408,
-    "timeWeek": 2252,
-    "timeMonth": 2075,
-    "timeYear": 2075,
+    "time": 2064,
+    "timeDay": 1779,
+    "timeWeek": 2173,
+    "timeMonth": 2064,
+    "timeYear": 2064,
     "dailyMinutesDown": {}
   }
 ]

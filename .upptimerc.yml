@@ -22,11 +22,11 @@ sites:
   - name: 54DNA Dev
     url: https://dev.54dnatype.com/
   - name: 54DNA API Dev
-    url: https://dev-api.54dnatype.com/
+    url: dev-api.54dnatype.com
     check: "tcp-ping"
     port: 443
   - name: 54DNA API Prd
-    url: https://api.54dnatype.com/
+    url: api.54dnatype.com
     check: "tcp-ping"
     port: 443
 status-website:

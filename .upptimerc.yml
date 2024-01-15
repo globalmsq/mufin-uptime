@@ -3,12 +3,32 @@ owner: globalmsq # Your GitHub organization or username, where this repository l
 repo: mufin-uptime # The name of this repository
 
 sites:
-  - name: Dev Businesshub
+## Businesshub
+  - name: Businesshub Dev
     url: https://dev.businesshub.co.kr/
-  - name: Staging Businesshub
+  - name: Businesshub Stg
     url: https://stg.businesshub.co.kr/
-  - name: Production Businesshub
+  - name: Businesshub Prd
     url: https://businesshub.co.kr/
+  - name: Businesshub ERP Dev
+    url: https://dev-erp.businesshub.co.kr/
+  - name: Businesshub ERP Stg
+    url: https://stg-erp.businesshub.co.kr/
+  - name: Businesshub ERP Prd
+    url: https://erp.businesshub.co.kr/
+##54DNA
+  - name: 54DNA Prd
+    url: https://www.54dnatype.com/
+  - name: 54DNA Dev
+    url: https://dev.54dnatype.com/
+  - name: 54DNA API Dev
+    url: https://dev-api.54dnatype.com/
+    check: "tcp-ping"
+    port: 443
+  - name: 54DNA API Prd
+    url: https://api.54dnatype.com/
+    check: "tcp-ping"
+    port: 443
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there

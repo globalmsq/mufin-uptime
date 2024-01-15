@@ -17,10 +17,10 @@ sites:
   - name: Businesshub ERP Prd
     url: https://erp.businesshub.co.kr/
 ##54DNA
-  - name: 54DNA Prd
-    url: https://www.54dnatype.com/
   - name: 54DNA Dev
     url: https://dev.54dnatype.com/
+  - name: 54DNA Prd
+    url: https://www.54dnatype.com/
   - name: 54DNA API Dev
     url: dev-api.54dnatype.com
     check: "tcp-ping"
@@ -29,6 +29,20 @@ sites:
     url: api.54dnatype.com
     check: "tcp-ping"
     port: 443
+## Mufin translator
+  - name: Mufin Translator Dev
+    url: https://dev-translator.mufin.lol/
+  - name: Mufin Translator Stg
+    url: https://stg-translator.mufin.lol/
+  - name: Mufin Translator Prd
+    url: https://translator.mufin.lol/
+  - name: Mufin Translator API Dev
+    url: https://dev-api-translator.mufin.lol/
+  - name: Mufin Translator API Stg
+    url: https://stg-api-translator.mufin.lol/
+  - name: Mufin Translator API Prd
+    url: https://prd-api-translator.mufin.lol/
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there

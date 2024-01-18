@@ -238,19 +238,19 @@
     "url": "https://dev-api-translator.mufin.lol/",
     "icon": "https://icons.duckduckgo.com/ip3/dev-api-translator.mufin.lol.ico",
     "slug": "mufin-translator-api-dev",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1933,
-    "timeDay": 1703,
-    "timeWeek": 1933,
-    "timeMonth": 1933,
-    "timeYear": 1933,
+    "status": "up",
+    "uptime": "99.27%",
+    "uptimeDay": "97.73%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "99.27%",
+    "uptimeYear": "99.27%",
+    "time": 1711,
+    "timeDay": 1334,
+    "timeWeek": 1711,
+    "timeMonth": 1711,
+    "timeYear": 1711,
     "dailyMinutesDown": {
-      "2024-01-18": 0
+      "2024-01-18": 33
     }
   },
   {

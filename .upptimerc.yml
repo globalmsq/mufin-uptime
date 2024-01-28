@@ -58,6 +58,17 @@ sites:
     url: https://globalmsq.com 
   - name: Must Fintech Homepage
     url: https://mufin.co.kr
+## Mail service
+  - name: Mufin Mailu
+    url: https://mail.mufin.co.kr
+  - name: Mufin Mailu SMTP
+    url: mail.mufin.co.kr
+    check: "tcp-ping"
+    port: 465
+  - name: Mufin Mailu IMAP
+    url: mail.mufin.co.kr
+    check: "tcp-ping"
+    port: 993
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there

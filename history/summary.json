@@ -94,19 +94,19 @@
     "url": "https://prd-api-translator.mufin.lol/",
     "icon": "https://icons.duckduckgo.com/ip3/prd-api-translator.mufin.lol.ico",
     "slug": "mufin-translator-api-prd",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2024,
-    "timeDay": 1902,
-    "timeWeek": 2362,
-    "timeMonth": 2043,
-    "timeYear": 2024,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1982,
+    "timeDay": 1426,
+    "timeWeek": 2152,
+    "timeMonth": 1998,
+    "timeYear": 1982,
     "dailyMinutesDown": {
-      "2024-02-16": 0
+      "2024-02-16": 6
     }
   },
   {

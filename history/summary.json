@@ -94,18 +94,20 @@
     "url": "https://prd-api-translator.mufin.lol/",
     "icon": "https://icons.duckduckgo.com/ip3/prd-api-translator.mufin.lol.ico",
     "slug": "mufin-translator-api-prd",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1991,
-    "timeDay": 628,
-    "timeWeek": 2245,
-    "timeMonth": 2009,
-    "timeYear": 1991,
-    "dailyMinutesDown": {}
+    "time": 2024,
+    "timeDay": 1902,
+    "timeWeek": 2362,
+    "timeMonth": 2043,
+    "timeYear": 2024,
+    "dailyMinutesDown": {
+      "2024-02-16": 0
+    }
   },
   {
     "name": "P2U Prd",

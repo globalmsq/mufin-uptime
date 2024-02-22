@@ -148,19 +148,19 @@
     "url": "https://icarus.mufin.lol",
     "icon": "https://icons.duckduckgo.com/ip3/icarus.mufin.lol.ico",
     "slug": "icarus",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 8014,
-    "timeDay": 4329,
-    "timeWeek": 7183,
-    "timeMonth": 6683,
-    "timeYear": 8014,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 7831,
+    "timeDay": 3308,
+    "timeWeek": 6526,
+    "timeMonth": 6524,
+    "timeYear": 7831,
     "dailyMinutesDown": {
-      "2024-02-22": 0
+      "2024-02-22": 6
     }
   },
   {

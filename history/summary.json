@@ -40,19 +40,19 @@
     "url": "https://www.54dnatype.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.54dnatype.com.ico",
     "slug": "54-dna-prd",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 482,
-    "timeDay": 363,
-    "timeWeek": 266,
-    "timeMonth": 454,
-    "timeYear": 482,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 488,
+    "timeDay": 539,
+    "timeWeek": 344,
+    "timeMonth": 468,
+    "timeYear": 488,
     "dailyMinutesDown": {
-      "2024-03-14": 0
+      "2024-03-14": 8
     }
   },
   {

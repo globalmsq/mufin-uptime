@@ -26,7 +26,7 @@ sites:
     # check: "tcp-ping"
     port: 443
   - name: 54DNA API Prd
-    url: api.54dnatype.com
+    url: prd-api.54dnatype.com
     check: "tcp-ping"
     port: 443
 ## Mufin translator

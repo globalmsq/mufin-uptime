@@ -1,7 +1,7 @@
 url: prd-api.54dnatype.com
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-03-14T09:54:27.556Z
+status: up
+code: 200
+responseTime: 178
+lastUpdated: 2024-03-14T10:01:23.943Z
 startTime: 2024-01-15T13:12:34.546Z
 generator: Upptime <https://github.com/upptime/upptime>
